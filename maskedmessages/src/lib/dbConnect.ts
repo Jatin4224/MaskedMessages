@@ -1,4 +1,3 @@
-import { syncBuiltinESMExports } from "module";
 import mongoose from "mongoose";
 
 //typescript kyuki humko ptahe db se jo data aara h vo ky h to humko number format mehi aaygi
